@@ -1,0 +1,9 @@
+name: OpList
+version: '${project.version}'
+main: com.ashkiano.oplist.OpList
+api-version: 1.16
+authors: [ AshKiano ]
+commands:
+  oplist:
+    description: Displays a list of OP players with clickable buttons to deop them.
+    usage: /oplist
